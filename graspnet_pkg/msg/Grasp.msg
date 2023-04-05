@@ -1,0 +1,7 @@
+float32 grasp_score
+float32 grasp_width
+float32 grasp_height
+float32 grasp_depth
+geometry_msgs/Quaternion rotation
+geometry_msgs/Point grasp_center
+float32 obj_ids
