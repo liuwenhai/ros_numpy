@@ -1,0 +1,4 @@
+GraspMsg gg
+sensor_msgs/PointCloud2 pointcloud
+---
+geometry_msgs/PoseArray trajectory

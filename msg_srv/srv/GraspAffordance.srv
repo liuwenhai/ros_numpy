@@ -1,0 +1,4 @@
+GraspMsg[] gg
+sensor_msgs/PointCloud2 pointcloud 
+---
+uint16[] result
